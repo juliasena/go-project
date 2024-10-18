@@ -47,7 +47,7 @@ Após a instalação, é essencial criar um banco de dados específico para o pr
 
 Como mostra o print abaixo:
 ![image](https://github.com/user-attachments/assets/6459c007-9a41-41de-a273-20a1e2e2e47d)
-Logo após para a criação da tabela
+
 ![image](https://github.com/user-attachments/assets/6058ff0f-6ab5-48ab-bf5e-7c04e1aa5bf4)
 
 E desta maneira conseguiremos subir os dados rodado a partir do script.

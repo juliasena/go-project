@@ -22,7 +22,7 @@ Para começar a usar este projeto, siga as etapas abaixo para configurar o ambie
    go version
    
 2. **Instalar PostgreSQL**
-   - Instale o PostgreSQL em sua máquina para poder conectar-se ao banco de dados. Você encontra a versão de instalação aqui. Caso tenha dúvidas na hora da configuração, recomendo este vídeo no YouTube, que é de fácil entendimento: [Vídeo de Instalação do PostgreSQL](https://www.youtube.com/watch?v=UbX-2Xud1JA) (versão para Windows).
+   - Instale o PostgreSQL em sua máquina para poder conectar-se ao banco de dados. Você encontra a versão de instalação [aqui](https://www.postgresql.org/download/). Caso tenha dúvidas na hora da configuração, recomendo este vídeo no YouTube, que é de fácil entendimento: [Vídeo de Instalação do PostgreSQL](https://www.youtube.com/watch?v=UbX-2Xud1JA) (versão para Windows).
 
 4. **Uso de IDE Gráfica**
    - Existem diversas opções no mercado, mas recomendo o Visual Studio Code (VSCode), uma plataforma que suporta várias linguagens. Para instalar, você pode clicar [aqui](https://code.visualstudio.com/download).
@@ -39,6 +39,19 @@ cd nome-do-repositorio
 
 2. **Compile e execute o código:**
 go run main.go
+
+
+## Banco de dados
+
+Após a instalação, é essencial criar um banco de dados específico para o projeto e, dentro dele, criar uma tabela que corresponda às colunas do arquivo base. Dessa forma, poderemos alimentar a tabela com os dados formatados adequadamente.
+
+Como mostra o print abaixo:
+![image](https://github.com/user-attachments/assets/6459c007-9a41-41de-a273-20a1e2e2e47d)
+Logo após para a criação da tabela
+![image](https://github.com/user-attachments/assets/6058ff0f-6ab5-48ab-bf5e-7c04e1aa5bf4)
+
+E desta maneira conseguiremos subir os dados rodado a partir do script.
+
 
 ## Contribuição
 Sinta-se à vontade para contribuir para este projeto. Você pode fazer isso através de pull requests ou reportando issues.

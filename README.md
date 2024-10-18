@@ -1,10 +1,8 @@
 # Go Project
 
-Este projeto foi desenvolvido com base em um arquivo de dados fornecido, chamado `base_teste.tsx`. O objetivo é criar um script que conecta a um banco de dados relacional PostgreSQL e insere os dados de maneira dinâmica e organizada nas tabelas do banco.
-
 ## Introdução
 
-Esta aplicação é escrita em Go e tem como finalidade a manipulação de dados a partir do arquivo `base_teste.tsx`. O projeto busca oferecer uma solução clara e organizada para o desafio proposto, focando na inserção eficiente e estruturada de dados no banco de dados PostgreSQL.
+Este projeto foi desenvolvido em Go e tem como finalidade a manipulação de dados a partir do arquivo `base_teste.tsx`. O projeto busca oferecer uma solução clara e organizada para o desafio proposto, focando na inserção eficiente e estruturada de dados no banco de dados PostgreSQL.
 
 ## Funcionalidades
 
